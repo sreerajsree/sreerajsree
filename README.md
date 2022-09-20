@@ -3,13 +3,16 @@
 </div>  
   
 
-### <div align="center">I'm Sreeraj S, a full-time Full Stack Developer 👨‍💻 working since 2020 🚀</div>  
-  
+### <div align="center">I'm Sreeraj S, a full-time Full Stack Developer 👨‍💻 working since 2020 🚀
 
 - 💻 React & Laravel Enthusiast  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I use tabs over spaces 
+
+</div>  
+  
+
   
 
 <br/>  
